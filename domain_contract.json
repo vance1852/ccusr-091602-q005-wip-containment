@@ -1,0 +1,6 @@
+{
+  "project": "wip-containment-graph",
+  "genealogy_actions": ["split", "merge", "assemble", "rework", "ship"],
+  "dispositions": ["held", "review_required", "released", "recalled", "scrapped"],
+  "locations": ["warehouse", "line", "transit", "customer"]
+}
